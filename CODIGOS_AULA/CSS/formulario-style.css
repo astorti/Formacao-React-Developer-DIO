@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+h2 {
+    font-size: 32px;
+    color: rgb(92, 92, 247);
+}
+
+label {
+    margin-right: 15px;
+}
+
+input, textarea, button {
+    background-color: rgb(164, 164, 222);
+    border-radius: 5px;
+}
+
+#mensagem, #nome, #email, button {
+    border: 2px solid blue;
+}
+
+.blue {
+    color: rgb(137, 137, 222);
+}
+
+.border {
+    width: 350px;
+    margin: 0 500px 0 500px;
+    padding: 15px;
+    border: 2px solid blueviolet;
+    border-radius: 5px;
+}

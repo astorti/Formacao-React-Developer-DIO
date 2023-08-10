@@ -1,0 +1,18 @@
+button:hover {
+    background-color: blueviolet;
+    cursor: pointer;
+}
+
+#mensagem:hover, 
+#nome:hover, 
+#email:hover {
+    border: 2px solid rgb(9, 244, 185);
+}
+
+.item:nth-child(3) {
+    width: 300px;
+}
+
+.item:last-child {
+    justify-content: end;
+}
