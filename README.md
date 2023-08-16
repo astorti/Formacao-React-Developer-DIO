@@ -21,17 +21,17 @@ __**REACT**__
 
 - **<u>Pasta componentes**</u>:
  Nesta aula foram apresentados os conceitos básicos sobre "components", como criar e aplicar no projeto. Neste projeto foi desenvolvido um componente "Button" e aplicado várias vezes na página inicial. 
- Acessar o código da aula: [React/componentes]()
+ Acessar o código da aula: [React/componentes](https://github.com/astorti/Formacao-React-Developer-DIO/tree/main/CODIGOS_AULA/REACT/componentes)
 
  
 - **<u>Pasta projeto-do-zero**</u>:
  Neste estudo projeto-do-zero, aproveitando varias aulas, foi montado passo a passo toda a configuração de um projeto react. Para isto, primeiramente foi criada a pasta "projeto-do-zero" e nesta pasta foi criado o projeto com o comando <u>npm init -y</u>. Em seguida foram feitas as instalações e configurações do **babel** e do **webpack**. Posteriormente foi adicionado o **React** ao projeto. Foi realizada também a instalação e configuração do **eslint** e do **prettier**. Aproveitando a aula sobre Fundamentos do React, abordando os temas sobre **componentes de classe,  componentes funcionameis e ciclo de vida dos componentes**, foi desenvolvida uma breve aplicação de cadastro e listagem de nomes utilizando os hooks **useState** e **useEffect**. 
- Acessar o código da aula: [React/projeto-do-zero]()
+ Acessar o código da aula: [React/projeto-do-zero](https://github.com/astorti/Formacao-React-Developer-DIO/tree/main/CODIGOS_AULA/REACT/projeto-do-zero)
 
 
 - **<u>Pasta gitfind**</u>:
  Nesta aula foi desenvolvido um projeto para busca de usuários do github utilizando a API do github, abordando os tópicos **async**, **await** e **fetch**. Ao inserir um usuário exitente no github, a aplicação retorna a foto, nome,  descrição e repositórios do usuário.
- Acessar o código da aula: [React/gitfind]()
+ Acessar o código da aula: [React/gitfind](https://github.com/astorti/Formacao-React-Developer-DIO/tree/main/CODIGOS_AULA/REACT/gitfind)
 
 ## **Desafios de Projetos**
 
