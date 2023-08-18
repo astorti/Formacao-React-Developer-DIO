@@ -41,4 +41,10 @@ O projeto consistiu em elaborar uma calculadora simples com operações básicas
 
 OBS: A calculadora realiza operações com apenas dois valores numéricos.
 
-Acessar projeto [**CALCULADORA**](https://github.com/astorti/Formacao-React-Developer-DIO/tree/main/DESAFIOS_PROJETOS/calculadora) 
+Acessar projeto [<u>**CALCULADORA**</u>](https://github.com/astorti/Formacao-React-Developer-DIO/tree/main/DESAFIOS_PROJETOS/calculadora) 
+
+__**WIKI-REPOSITORIOS-GITHUB**__
+
+Projeto para listagem de repositórios do GitHub. Ao digitar um username e nome do repositório, caso exista no Github, o repositório é adicionado à listagem, possibiltando acessar o código no github. [Projeto inicial-DIO]() desenvolvido junto com o professor. Como parte do desafio para completar a aplicação, foi desenvolvido o código para remover um repositório da listagem. Adicionalmente foi implementado um tratamento de erro utilizando o **try-catch** para evitar a "quebra" da aplicação quando se digitava um repositório inexistente no Github. Foi adicionado também uma caixa de diálogo, utilizando o método **confirm** para confirmar a exclusão do repositório da listagem.
+
+Acessar projeto [**WIKI-REPOSITORIOS-GITHUB**](https://github.com/astorti/Formacao-React-Developer-DIO/tree/main/DESAFIOS_PROJETOS/wiki-repositorios-github) 
