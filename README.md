@@ -33,11 +33,21 @@ __**REACT**__
  Nesta aula foi desenvolvido um projeto para busca de usuários do github utilizando a API do github, abordando os tópicos **async**, **await** e **fetch**. Ao inserir um usuário exitente no github, a aplicação retorna a foto, nome,  descrição e repositórios do usuário.
  Acessar o código da aula: [React/gitfind](https://github.com/astorti/Formacao-React-Developer-DIO/tree/main/CODIGOS_AULA/REACT/gitfind)
 
+
+
+- **<u>Pasta react-intermediario**</u>:
+ Nesta etapa do curso, foi desenvolvido um clone do site da DIO, elaborando junto com o professor, a página principal do site, a tela de login e a tela de quando um usuário esta logado. No projeto foi utilizado **styled-components** para a estilização das páginas e o **useNavigate** do **react-router-dom** para navegação entre as páginas. Acessar o código da aula: [React/react-intermediario](https://github.com/astorti/Formacao-React-Developer-DIO/tree/main/CODIGOS_AULA/REACT/react-intermediario)
+
+
+ - **<u>Pasta react-hooks**</u>: Aplicação própria desenvolvida para apresentar os códigos realizadas nas aulas sobre os principais hooks react, entre eles o **useState**, **useEffect**, **useMemo** e o **useCallback**.Para cada um dos hooks foi desenvolvido um código básico para introdução ao conceito. A aplicação foi desenvolvida utilizando a navegação de páginas com a utilização do react-router-dom, sendo elaborada uma página para cada hook. Acessar o código da aula: [React/react-hooks](https://github.com/astorti/Formacao-React-Developer-DIO/tree/main/CODIGOS_AULA/REACT/react-hooks)
+
+ - **<u>Pasta react_hook_forms-axios**</u>: Aplicação própria desenvolvida a partir da explicação sobre o **react-hook-form** e o **axios**. Neste projeto é possível acessar uma listagem de livros cadastrados em um arquivo JSON (API) a partir da validação de um formulário. Acessar o código da aula: [React/react_hook_forms-axios](https://github.com/astorti/Formacao-React-Developer-DIO/tree/main/CODIGOS_AULA/REACT/react_hook_forms-axios)
+
 ## **Desafios de Projetos**
 
 __**CALCULADORA**__
 
-O projeto consistiu em elaborar uma calculadora simples com operações básicas de soma, subtração, multiplicação e divisão. A calculadora foi desenvolvido junto com o professor do curso, utilizando componentes e o styled-components para estilização do layout. [Projeto inicial-DIO](https://github.com/digitalinnovationone/trilha-react-desafio01-calculadora/blob/master/src/App.js). Como parte do desafio para completar a calculadora, foram desenvolvidas as funções das operações de divisão e de multiplicação. Também foram realizadas algumas modificações referente ao projeto inicial, de modo que as equações permanecessem no visor até o momento de pressionar o botão "=", sendo então mostrado o resultado da operação e possibilitando realizar novo calculo. A lógica do código também foi modificada de modo que fosse possível realizar operações com valores negativos. 
+O projeto consistiu em elaborar uma calculadora simples com operações básicas de soma, subtração, multiplicação e divisão. A calculadora foi desenvolvido junto com o professor do curso, utilizando componentes e o styled-components para estilização do layout. [Projeto inicial-DIO](https://github.com/digitalinnovationone/trilha-react-desafio01-calculadora). Como parte do desafio para completar a calculadora, foram desenvolvidas as funções das operações de divisão e de multiplicação. Também foram realizadas algumas modificações referente ao projeto inicial, de modo que as equações permanecessem no visor até o momento de pressionar o botão "=", sendo então mostrado o resultado da operação e possibilitando realizar novo calculo. A lógica do código também foi modificada de modo que fosse possível realizar operações com valores negativos. 
 
 OBS: A calculadora realiza operações com apenas dois valores numéricos.
 

@@ -1,0 +1,6 @@
+{
+    "books": [
+        { "id": 1, "name": "Dune", "author": "Frank Herbert" },
+        { "id": 2, "name": "Foundation", "author": "Isaac Asimov"  }
+    ]
+}
