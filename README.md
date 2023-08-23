@@ -53,8 +53,19 @@ OBS: A calculadora realiza operações com apenas dois valores numéricos.
 
 Acessar projeto [<u>**CALCULADORA**</u>](https://github.com/astorti/Formacao-React-Developer-DIO/tree/main/DESAFIOS_PROJETOS/calculadora) 
 
+---
+
 __**WIKI-REPOSITORIOS-GITHUB**__
 
 Projeto para listagem de repositórios do GitHub. Ao digitar um username e nome do repositório, caso exista no Github, o repositório é adicionado à listagem, possibiltando acessar o código no github. [Projeto inicial-DIO](https://github.com/digitalinnovationone/trilha-react-desafio-2) desenvolvido junto com o professor. Como parte do desafio para completar a aplicação, foi desenvolvido o código para remover um repositório da listagem. Adicionalmente foi implementado um tratamento de erro utilizando o **try-catch** para evitar a "quebra" da aplicação quando se digitava um repositório inexistente no Github. Foi adicionado também uma caixa de diálogo, utilizando o método **confirm** para confirmar a exclusão do repositório da listagem.
 
 Acessar projeto [**WIKI-REPOSITORIOS-GITHUB**](https://github.com/astorti/Formacao-React-Developer-DIO/tree/main/DESAFIOS_PROJETOS/wiki-repositorios-github) 
+
+---
+
+__**CLONE-TELA-CADASTRO-DIO**__
+
+Projeto consistiu em recriar a página de cadastro da DIO. Foi utilizado como base o [Projeto-inicial-DIO](https://github.com/digitalinnovationone/trilha-react-desafio-3) desenvolvido pelo professor, que também foi a base para os códigos de aula **"react-intermediario"**.
+
+Acessar projeto [**CLONE-TELA-CADASTRO-DIO**](https://github.com/astorti/Formacao-React-Developer-DIO/tree/main/DESAFIOS_PROJETOS/clone-tela-cadastro-dio) 
+
