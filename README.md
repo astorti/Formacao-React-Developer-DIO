@@ -43,7 +43,7 @@ __**REACT**__
 
  - **<u>Pasta react_hook_forms-axios**</u>: Aplicação própria desenvolvida a partir da explicação sobre o **react-hook-form** e o **axios**. Neste projeto é possível acessar uma listagem de livros cadastrados em um arquivo JSON (API) a partir da validação de um formulário. Acessar o código da aula: [React/react_hook_forms-axios](https://github.com/astorti/Formacao-React-Developer-DIO/tree/main/CODIGOS_AULA/REACT/react_hook_forms-axios)
 
- - **<u>Pasta react_intermediario-typescript**</u>: Neste curso foi aprendido conceitos de **Typescript** através da conversão do código [react-intermediario](https://github.com/astorti/Formacao-React-Developer-DIO/tree/main/CODIGOS_AULA/REACT/react-intermediario) inicialmente desenvolvido em Javascript, para Typescript. Acessar o código da aula: [React/react_intermediario-typescript](https://github.com/astorti/Formacao-React-Developer-DIO/tree/main/CODIGOS_AULA/REACT/react_intermediario-typescript)
+ - **<u>Pasta react_intermediario-typescript**</u>: Neste curso foi aprendido conceitos de **Typescript** através da conversão do código [react-intermediario](https://github.com/astorti/Formacao-React-Developer-DIO/tree/main/CODIGOS_AULA/REACT/react-intermediario) inicialmente desenvolvido em Javascript, para Typescript. Acessar o código da aula: [React/react_intermediario-typescript](https://github.com/astorti/Formacao-React-Developer-DIO/tree/main/CODIGOS_AULA/REACT/react-intermediario-typescript)
 
 ## **Desafios de Projetos**
 
