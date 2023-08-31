@@ -43,7 +43,7 @@ __**REACT**__
 
  - **<u>Pasta react_hook_forms-axios**</u>: Aplicação própria desenvolvida a partir da explicação sobre o **react-hook-form** e o **axios**. Neste projeto é possível acessar uma listagem de livros cadastrados em um arquivo JSON (API) a partir da validação de um formulário. Acessar o código da aula: [React/react_hook_forms-axios](https://github.com/astorti/Formacao-React-Developer-DIO/tree/main/CODIGOS_AULA/REACT/react_hook_forms-axios)
 
- - **<u>Pasta react_intermediario-typescript**</u>: Neste curso foi aprendido conceitos de **Typescript** através da conversão do código [react-intermediario](https://github.com/astorti/Formacao-React-Developer-DIO/tree/main/CODIGOS_AULA/REACT/react-intermediario) inicialmente desenvolvido em Javascript, para Typescript. Acessar o código da aula: [React/react_intermediario-typescript](https://github.com/astorti/Formacao-React-Developer-DIO/tree/main/CODIGOS_AULA/REACT/react-intermediario-typescript)
+ - **<u>Pasta react-intermediario-typescript**</u>: Neste curso foi aprendido conceitos de **Typescript** através da conversão do código [react-intermediario](https://github.com/astorti/Formacao-React-Developer-DIO/tree/main/CODIGOS_AULA/REACT/react-intermediario) inicialmente desenvolvido em Javascript, para Typescript. Acessar o código da aula: [React/react-intermediario-typescript](https://github.com/astorti/Formacao-React-Developer-DIO/tree/main/CODIGOS_AULA/REACT/react-intermediario-typescript)
 
 ## **Desafios de Projetos**
 
@@ -70,4 +70,12 @@ __**CLONE-TELA-CADASTRO-DIO**__
 Projeto consistiu em recriar a página de cadastro da DIO. Foi utilizado como base o [Projeto-inicial-DIO](https://github.com/digitalinnovationone/trilha-react-desafio-3) desenvolvido pelo professor, que também foi a base para os códigos de aula **"react-intermediario"**.
 
 Acessar projeto [**CLONE-TELA-CADASTRO-DIO**](https://github.com/astorti/Formacao-React-Developer-DIO/tree/main/DESAFIOS_PROJETOS/clone-tela-cadastro-dio) 
+
+---
+
+__**LOGIN-REACT-TYPESCRIPT**__
+
+Projeto desenvolvido em aula junto com o professor para criar uma validação nos campos de input de login com e-mail e password. Para esta finalidade foi utilizado o **react-hook-form** e o **yup**. A validação consiste em informar um e-mail no formato correto e senha com no mínimo seis caracteres. [Projeto-inicial-DIO](https://github.com/digitalinnovationone/trilha-react-desafio-4). Como desafio sujerido pelo professor, foi implementado a validação do botão. Essa validação consiste em desabilitar o botão caso os inputs de e-mail e password estejam inválidos. Para esta validação foi utilizado o useEffect que monitora a variável boolean "isValid". A cada alteração no valor da variável isValid, o botão é habilitado ou desabilitado. 
+
+Acessar projeto [**LOGIN-REACT-TYPESCRIPT**](https://github.com/astorti/Formacao-React-Developer-DIO/tree/main/DESAFIOS_PROJETOS/login-react-typescript) 
 
