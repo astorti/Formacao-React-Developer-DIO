@@ -1,0 +1,7 @@
+{
+    "books": [
+        { "id": 1, "name": "Dune" },
+        { "id": 2, "name": "Foundation" },
+        { "id": 3, "name": "The Lord of the Rings" }
+    ]
+}

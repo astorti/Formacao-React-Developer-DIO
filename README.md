@@ -45,6 +45,9 @@ __**REACT**__
 
  - **<u>Pasta react-intermediario-typescript**</u>: Neste curso foi aprendido conceitos de **Typescript** através da conversão do código [react-intermediario](https://github.com/astorti/Formacao-React-Developer-DIO/tree/main/CODIGOS_AULA/REACT/react-intermediario) inicialmente desenvolvido em Javascript, para Typescript. Acessar o código da aula: [React/react-intermediario-typescript](https://github.com/astorti/Formacao-React-Developer-DIO/tree/main/CODIGOS_AULA/REACT/react-intermediario-typescript)
 
+ - **<u>Pasta react_hook_forms-axios-context**</u>: Com base nas aulas sobre **Context API** e **Hooks customizados**, foi implementado a partir do projeto [react_hook_forms-axios](https://github.com/astorti/Formacao-React-Developer-DIO/tree/main/CODIGOS_AULA/REACT/react_hook_forms-axios) os conceitos abordados. No projeto foi utilizado o **createContext** da biblioteca **"react"** e movidos para este novo arquivo <u>**auth.jsx**</u> todos os códigos de acesso à API. Posteriormente foi desenvolvido um **hook customizado <u>"useAuth"**</u> conectando ao context através do hook **useContext** para ser utilizado nas páginas necessárias para obter os dados da API. Acessar o código da aula: [React/react_hook_forms-axios-context](https://github.com/astorti/Formacao-React-Developer-DIO/tree/main/CODIGOS_AULA/REACT/react_hook_forms-axios-context)
+
+
 ## **Desafios de Projetos**
 
 __**CALCULADORA**__
