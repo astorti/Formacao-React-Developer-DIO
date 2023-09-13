@@ -84,3 +84,11 @@ Projeto desenvolvido em aula junto com o professor para criar uma validação no
 
 Acessar projeto [**LOGIN-REACT-TYPESCRIPT**](https://github.com/astorti/Formacao-React-Developer-DIO/tree/main/DESAFIOS_PROJETOS/login-react-typescript) 
 
+---
+
+__**BLOG-NEXT-APP**__
+
+ Projeto final para conclusão da formação React Developer. O projeto consiste na criação de uma página de blog e foi desenvolvido do zero a partir dos conceitos aprendidos durante o curso. Para o desenvolvimento do projeto foi utilizado o Framework **NextJs**, o **NodeJs**, o **Express**  e como banco de dados, apesar de haver sido utilizado na aula do projeto uma ferramento online, foi obtado a utilização do **Postgres** como um desafio pessoal. Outros conceitos que foram incorporados ao projeto foram o **useContext**, **useAuth**, como um hook customizado, **useRouter** da biblioteca do Next. Como desafio para entrega do projeto foi desenvolver a página e o rotemamento para o detalhamento e visualição do conteudo ao se clicar em um artigo listado na página principal. Além de visualizar o artigo, também é possível adicionar um novo artigo e excluir um artigo já existente no banco de dados.
+
+Acessar projeto [**BLOG-NEXT-APP**](https://github.com/astorti/Formacao-React-Developer-DIO/tree/main/DESAFIOS_PROJETOS/blog-next-app) 
+

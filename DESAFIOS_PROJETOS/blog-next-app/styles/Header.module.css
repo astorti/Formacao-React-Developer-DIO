@@ -1,0 +1,31 @@
+.container {
+    height: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(25, 10, 242);
+    width: 100%;
+    margin-bottom: 40px;
+}
+
+.newButtonContainer {
+    display: flex;
+    width: 90%;
+    justify-content: flex-end;
+}
+
+.headerButton {
+    font-size: xx-small;
+    cursor: pointer; 
+    color: #FFFFFF;
+    margin: 3px;
+    text-decoration: none;
+    border: 1px solid #FFFFFF;
+    border-radius: 3px;
+    padding: 2px;
+}
+
+.headerButton:hover {
+    background-color: rgb(18, 10, 141);
+}
